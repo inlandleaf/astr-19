@@ -8,5 +8,4 @@ def print_name():
 {fav_movie} because of its action scenes captivating story. My favorite food is {fav_food} because of \
 its intense and exotic flavors.")
 
-# Call the function
-print_info()
+print_info() # Call the function
