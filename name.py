@@ -1,4 +1,4 @@
-def print_info():
+def print_name():
     name = "Zachary Dana"
     pronouns = "He/Him"
     fav_movie = "Goodfellas"
